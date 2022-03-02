@@ -1,5 +1,4 @@
  <h1 align="center">&#x1F4DC Java 后端学习计划 </h1>
-
 > 一切伟大的行动和思想，都有一个微不足道的开始。 
 
 记录 Java 学习的内容，将平常看到的文章整理出来，成体系的进行学习。
@@ -8,7 +7,8 @@
 
 **1.1 Java 基础语法核心**
 
--   :fire: [Java]()​
+-   :fire: [深入解析String#intern](https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html)
+-   [包装类型自动装箱与拆箱](note/java/wrapperClass.md)
 
 **1.2 深入浅出 JVM**
 
