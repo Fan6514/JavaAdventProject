@@ -44,13 +44,12 @@
 
 ## 五、:rocket: 数据库
 
-**5.1 MySQL 必知必会**
+**5.1 缓存数据库 Redis**
 
-**5.2 索引与锁机制**
+-   [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
+-   [Redis和MySQL如何保持数据一致性?](https://mp.weixin.qq.com/s/tF7KyjnLg5QMJSbEm9it-A)
 
-**5.3 事务特性与隔离级别**
-
-**5.4 分库分表**
+**5.2 MySQL 必知必会**
 
 ## 六、:rocket: 项目
 
