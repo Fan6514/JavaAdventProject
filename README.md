@@ -7,14 +7,19 @@
 
 **1.1 Java 基础语法核心**
 
+-  [Java 代码编译流程](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453156810&idx=1&sn=b8e7c90ea85775fbe91e2f5aaf0a9ead&chksm=8cfd1149bb8a985f6dbda9502006ff840c3ed5c54912fa41039016d4d0ee2ead90616f53c598&scene=178&cur_album_id=2229248613120114690)
 -   :fire: [深入解析String#intern](https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html)
 -   [包装类型自动装箱与拆箱](note/java/wrapperClass.md)
 
-**1.2 深入浅出 JVM**
+**1.2 Java 容器概述和方法**
 
-**1.3 并发与多线程**
+-   [Collection集合概述及其常用方法](https://www.cnblogs.com/liyihua/p/12182562.html)
 
-**1.4 常用工具使用**
+**1.3 深入浅出 JVM**
+
+**1.4 并发与多线程**
+
+**1.5 常用工具使用**
 
 ## 二、:rocket: 数据结构与算法
 
